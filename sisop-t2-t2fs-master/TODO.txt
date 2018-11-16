@@ -1,0 +1,21 @@
+﻿Métodos da interface a implementar:
+- ln2
+
+Métodos da interface já implementados:
+- readdir2
+- closedir2
+- opendir2
+- getcwd2
+- chdir2
+- mkdir2
+- rmdir2
+- open2 (não testado)
+- identify2 (não testado)
+- close2 (não testado)
+- seek2 (não testado)
+- truncate2 (não testado)
+- create2 (não testado)
+- read2 (não testado)
+- delete2 (não testado)
+- write2 (não testado)
+
